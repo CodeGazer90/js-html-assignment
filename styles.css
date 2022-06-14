@@ -1,1 +1,14 @@
 /* Write your CSS here! */
+
+html{
+    scroll-behavior: smooth;
+}
+
+li{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+}
