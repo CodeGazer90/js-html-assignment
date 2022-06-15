@@ -56,13 +56,13 @@ img{
     margin-right: auto;
     width: 30%;
     padding:30px;
-    box-shadow:5px 5px 5px 5px rgb(110, 215, 184) ;
+    box-shadow:5px 5px 5px 5px rgb(55, 210, 224) ;
 }
 
 .vacation{
     border: 1px solid black;
     margin: 80px;
-    box-shadow:5px 5px 5px 5px rgb(110, 215, 184) ;
+    box-shadow:5px 5px 5px 5px rgb(55, 210, 224) ;
 }
 
 #navbar{
@@ -70,7 +70,7 @@ img{
     position: fixed;
     top: 0;
     width: 100%;
-    background-color:rgb(110, 215, 184);
+    background-color:rgb(55, 210, 224);
 
 }
 
@@ -86,7 +86,7 @@ p{
 }
 
 footer{
-    background: rgb(110, 215, 184) ;
+    background: rgb(55, 210, 224) ;
     padding-top: 20px;
     padding-bottom: 20px;
 }
