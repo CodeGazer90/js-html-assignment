@@ -4,11 +4,78 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    margin:8px;
+    display: block;
+    
+}
+
+.funParagraph{
+    color:green;
+}
+
+#mainHeading{
+    color: red;
+}
 li{
     list-style: none;
+    font-size: 20px;
     
 }
 
 a{
     text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color:white;
+    font-size: 25px;
+}
+
+h1, h2, p, footer{
+    text-align: center;
+}
+
+ul{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    padding:30px;
+}
+
+.vacation{
+    border: 1px solid black;
+    margin: 80px;
+    box-shadow:5px 5px 5px 5px rgb(110, 215, 184) ;
+}
+
+#navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color:rgb(110, 215, 184);
+
+}
+
+#header {
+    margin-top: 70px; 
+}
+
+p{
+    margin:8%;
+    font-size: 20px;
+}
+
+footer{
+    background: rgb(110, 215, 184) ;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
